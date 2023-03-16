@@ -24,5 +24,7 @@ public class Test1 {
         System.out.println("idea处更新...");
 
         System.out.println("其他人更新...");
+
+        //gitee处更新
     }
 }

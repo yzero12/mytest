@@ -22,7 +22,7 @@ public class Test1 {
         System.out.println("gitee处更新...");
         System.out.println("idea处更新...");
         System.out.println("其他人更新...");
-        System.out.println("master1分支...");
+        System.out.println("master1分支1...");
 
 
     }

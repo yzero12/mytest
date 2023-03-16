@@ -19,8 +19,8 @@ public class Test1 {
 
     @Test
     public void test1(){
-        System.out.println("gitee处更新...")
+        System.out.println("gitee处更新...");
 
-
+        System.out.println("idea处更新...");
     }
 }

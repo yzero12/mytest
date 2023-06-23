@@ -13,7 +13,7 @@ public class Test {
 
     @org.junit.Test
     public void test(){
-        MyCustomMethod.getRepeatCharNum("fhafghakghakghiagh");
+        MyCustomMethod.getRepeatCharNum("afhafghakghakghiagh");
     }
 
 
